@@ -13,7 +13,7 @@ and present findings in a clean, interactive visual report.
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](dashboard-screenshot.png)
+![Dashboard Preview](https://github.com/faridah-portfolio/media-analysis/blob/1491d40c5c148c9a41c483088c61083786c1122d/Power%20BI%20Desktop%206_26_2026%209_16_59%20PM.png)
 
 ---
 
