@@ -94,4 +94,5 @@ Verified Label = IF(mediarates[user_verified] = 1, "Verified", "Not Verified")
 
 ---
 
-## 📁 Files in This Repository
+## 📁 powerbi dashboard
+![github link](https://github.com/faridah-portfolio/media-analysis/blob/e1790c27af0f9c73c3e6aba22ac49a51f901390b/farida-media%20dashboard.pbix)
